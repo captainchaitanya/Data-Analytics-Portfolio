@@ -11,13 +11,16 @@ This project analyzes marketing campaign performance to provide data-driven reco
 
 Click the link below to view and interact with the live dashboard.
 
-**➡️[View the Live Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGJjYTk5YzAtZGNiYS00Zjc2LTk4NTUtOWM3YzI3NWI4NTIxIiwidCI6ImU5YmUyYzNkLWE5NTktNGQwOC1iYmY2LTA0ODhjMzlkZjJmNSJ9)**
+**➡️ [View the Live Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGJjYTk5YzAtZGNiYS00Zjc2LTk4NTUtOWM3YzI3NWI4NTIxIiwidCI6ImU5YmUyYzNkLWE5NTktNGQwOC1iYmY2LTA0ODhjMzlkZjJmNSJ9)**
+
 
 ### Dashboard Screenshot
 
-I have added a screenshot of the finished dashboard as well. 
+
+![Dashboard Screenshot](Screenshot(752).png)
 
 
+### Project Files
 
 * **[`generate_data.py`](generate_data.py):** The Python script used to create the synthetic dataset for this analysis.
 * **[`Marketing_ROAS_Dashboard.pdf`](Marketing_ROAS_Dashboard.pdf):** A static PDF version of the final dashboard.
