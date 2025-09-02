@@ -11,7 +11,7 @@ This project analyzes marketing campaign performance to provide data-driven reco
 
 Click the link below to view and interact with the live dashboard.
 
-**➡️ [View the Live Interactive Dashboard]((https://app.powerbi.com/view?r=eyJrIjoiZGJjYTk5YzAtZGNiYS00Zjc2LTk4NTUtOWM3YzI3NWI4NTIxIiwidCI6ImU5YmUyYzNkLWE5NTktNGQwOC1iYmY2LTA0ODhjMzlkZjJmNSJ9))**
+**➡️ [View the Live Interactive Dashboard]([(https://app.powerbi.com/view?r=eyJrIjoiZGJjYTk5YzAtZGNiYS00Zjc2LTk4NTUtOWM3YzI3NWI4NTIxIiwidCI6ImU5YmUyYzNkLWE5NTktNGQwOC1iYmY2LTA0ODhjMzlkZjJmNSJ9)])**
 
 ### Dashboard Screenshot
 
