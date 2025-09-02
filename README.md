@@ -17,7 +17,7 @@ Click the link below to view and interact with the live dashboard.
 ### Dashboard Screenshot
 
 
-![Dashboard Screenshot](Screenshot (752).png)
+[Dashboard Screenshot](Screenshot(752).png)
 
 
 ### Project Files
