@@ -19,7 +19,7 @@ Click the link below to view and interact with the live dashboard.
 * **[`generate_data.py`](generate_data.py):** The Python script used to create the synthetic dataset for this analysis.
 * **[`Marketing_ROAS_Dashboard.pdf`](Marketing_ROAS_Dashboard.pdf):** A static PDF version of the final dashboard.
 
-##2. Loan Risk App 
+## 2. Loan Risk App 
 
 My goal was to build a complete application from start to finish—taking a raw dataset, training a predictive model, and deploying it as a live, interactive tool that anyone could use.
 
