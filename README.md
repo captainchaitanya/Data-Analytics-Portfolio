@@ -18,3 +18,22 @@ Click the link below to view and interact with the live dashboard.
 
 * **[`generate_data.py`](generate_data.py):** The Python script used to create the synthetic dataset for this analysis.
 * **[`Marketing_ROAS_Dashboard.pdf`](Marketing_ROAS_Dashboard.pdf):** A static PDF version of the final dashboard.
+
+##2. Loan Risk App 
+
+My goal was to build a complete application from start to finish—taking a raw dataset, training a predictive model, and deploying it as a live, interactive tool that anyone could use.
+
+You can test the live application yourself at the link below:
+
+[➡️ Launch the Loan Risk Prediction App](https://loan-risk-app-kthk9eoqws9jylapf6pmbm.streamlit.app/)
+
+***Technology Stack***
+Programming Language: Python
+
+Data Analysis: Pandas, NumPy, Seaborn
+
+Machine Learning: Scikit-learn, XGBoost
+
+Web App Framework: Streamlit
+
+Version Control & Deployment: Git, GitHub, Streamlit Community Cloud
