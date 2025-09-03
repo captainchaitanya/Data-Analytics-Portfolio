@@ -21,7 +21,7 @@ Click the link below to view and interact with the live dashboard.
 
 ## 2. Loan Risk App 
 
-My goal was to build a complete application from start to finish—taking a raw dataset, training a predictive model, and deploying it as a live, interactive tool that anyone could use.
+My goal was to build a complete application from start to finish-taking a raw dataset, training a predictive model, and deploying it as a live, interactive tool that anyone could use.
 
 You can test the live application yourself at the link below:
 
