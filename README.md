@@ -1,6 +1,35 @@
 # My Data Analytics Portfolio
 
-## 1. 🚀 Proactive SME Cardholder Retention Engine
+## 1. E-commerce Anomaly and Abuse Detection Engine
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ecommerce-risk-analysis-dashboard-gskrtt464opqbpuhdbdeas.streamlit.app)
+
+**Live Demo:** [**https://ecommerce-risk-analysis-dashboard-gskrtt464opqbpuhdbdeas.streamlit.app**](https://ecommerce-risk-analysis-dashboard-gskrtt464opqbpuhdbdeas.streamlit.app)
+
+An interactive Streamlit dashboard for identifying and analyzing potentially fraudulent transactions in a large e-commerce dataset. This project was built as a portfolio piece to showcase skills in data analysis, feature engineering, and building user-friendly data applications.
+
+🚀 Key Features
+Key Risk Indicators (KRI): At-a-glance metrics for total orders, high-risk orders, and total monetary value at risk.
+
+High-Risk Investigation: A dedicated dropdown to immediately inspect transactions that cross a predefined risk threshold.
+
+General Transaction Inspector: A tool in the sidebar to look up the risk profile of any order ID in the dataset.
+
+Interactive Visualizations: Tabbed charts showing the Top 10 riskiest cities by average risk score and the overall distribution of risk scores across all transactions.
+
+🛠️ Tech Stack
+Language: Python
+
+Data Manipulation: Pandas, SQLite
+
+Dashboarding: Streamlit
+
+Data Visualization: Altair
+
+Database Setup: Python's built-in os, sqlite3 libraries
+
+
+## 2. 🚀 Proactive SME Cardholder Retention Engine
 **➡️ Live Demo:** [**Click here to access the Streamlit Dashboard**](https://proactive-churn-retention-engine-bsbuhzwnddg3w9mlpt3cps.streamlit.app/)
 
 ## 🎯 Project Overview
@@ -32,7 +61,7 @@ Web App Framework: Streamlit
 
 Version Control & Deployment: Git, GitHub, Streamlit Community Cloud
 
-## 2. Loan Risk App 
+## 3. Loan Risk App 
 
 My goal was to build a complete application from start to finish-taking a raw dataset, training a predictive model, and deploying it as a live, interactive tool that anyone could use.
 
@@ -46,7 +75,7 @@ Programming Language: Python
 Data Analysis: Pandas, NumPy, Seaborn
 
 
-## 3. Marketing ROAS Optimization Dashboard
+## 4. Marketing ROAS Optimization Dashboard
 
 This project analyzes marketing campaign performance to provide data-driven recommendations for budget allocation. The goal is to identify high-performing channels and advise on strategies to increase overall revenue.
 
